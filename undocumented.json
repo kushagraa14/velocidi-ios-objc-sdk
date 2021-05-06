@@ -1,0 +1,89 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/Match/VSDKMatchRequest.h",
+      "line": 13,
+      "symbol": "VSDKMatchRequest.userIds",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/Match/VSDKMatchRequest.h",
+      "line": 14,
+      "symbol": "VSDKMatchRequest.providerId",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/Tracking/VSDKTrackingRequest.h",
+      "line": 15,
+      "symbol": "VSDKTrackingRequest.userId",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/Tracking/VSDKTrackingRequest.h",
+      "line": 17,
+      "symbol": "VSDKTrackingRequest.data",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/VSDKGlobalVariables.h",
+      "line": 3,
+      "symbol": "VelocidiSDKVersionNumber",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/VSDKGlobalVariables.h",
+      "line": 6,
+      "symbol": "VelocidiSDKVersionString",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.constant",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/VSDKRequest.h",
+      "line": 15,
+      "symbol": "VSDKRequest.manager",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/VSDKRequest.h",
+      "line": 16,
+      "symbol": "VSDKRequest.url",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.property",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/VSDKRequest.h",
+      "line": 18,
+      "symbol": "VSDKRequest.-getVersionedUserAgent",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/VSDKUserId.h",
+      "line": 21,
+      "symbol": "VSDKUserId.-init",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/VSDKUserId.h",
+      "line": 22,
+      "symbol": "VSDKUserId.-initWithId:type:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk/VelocidiSDK/VelocidiSDK/VSDKUtil.h",
+      "line": 26,
+      "symbol": "VSDKUtil.+tryParseJsonEventString:error:",
+      "symbol_kind": "sourcekitten.source.lang.objc.decl.method.class",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/duarte/Documents/git/velocidi-ios-objc-sdk"
+}
