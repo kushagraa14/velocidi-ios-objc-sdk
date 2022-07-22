@@ -1,6 +1,6 @@
 WORKSPACE ?= VelocidiSDK.xcworkspace
-TEST_SDK ?= 14.4
-TEST_DEVICE ?= iPhone 11 Pro Max
+TEST_SDK ?= 15.2
+TEST_DEVICE ?= iPad Pro (12.9-inch) (4th generation)
 
 XCARGS := -workspace $(WORKSPACE) \
 					-sdk "iphonesimulator" \
